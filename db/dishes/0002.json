@@ -1,0 +1,12 @@
+{
+  "id": "0002",
+  "name": "炒土豆丝",
+  "type": "main",
+  "category": "家常素菜",
+  "meals": [
+    "lunch",
+    "dinner"
+  ],
+  "tags": [],
+  "imageLarge": "images/large/0002.png"
+}
