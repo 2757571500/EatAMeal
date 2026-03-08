@@ -1,0 +1,12 @@
+{
+  "id": "0001",
+  "name": "小炒肉",
+  "type": "main",
+  "category": "家常荤菜",
+  "meals": [
+    "lunch",
+    "dinner"
+  ],
+  "tags": [],
+  "imageLarge": "images/large/0001.png"
+}
