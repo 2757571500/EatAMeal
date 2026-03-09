@@ -1,11 +1,10 @@
 {
   "id": "0002",
   "name": "紫菜汤",
-  "type": "soup",
+  "type": "main",
   "category": "家常荤菜",
   "meals": [
-    "lunch",
-    "dinner"
+    "lunch"
   ],
   "tags": [],
   "imageLarge": "images/large/0002.jpg"
